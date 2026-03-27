@@ -20,8 +20,3 @@
 </p>
 
 ---
-
-### 📊 GitHub 统计 (Stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leezekee&layout=compact&theme=gruvbox" alt="Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=leezekee&show_icons=true&theme=gruvbox" alt="Stats" />
